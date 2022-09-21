@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\bin\Debug\net6.0\Zadach43.exe
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\bin\Debug\net6.0\Zadach43.deps.json
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\bin\Debug\net6.0\Zadach43.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\bin\Debug\net6.0\Zadach43.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\bin\Debug\net6.0\Zadach43.pdb
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\refint\Zadach43.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.pdb
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\Zadach43.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadach43\obj\Debug\net6.0\ref\Zadach43.dll
