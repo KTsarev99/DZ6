@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\bin\Debug\net6.0\Zadaca41.exe
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\bin\Debug\net6.0\Zadaca41.deps.json
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\bin\Debug\net6.0\Zadaca41.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\bin\Debug\net6.0\Zadaca41.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\bin\Debug\net6.0\Zadaca41.pdb
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\refint\Zadaca41.dll
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.pdb
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\Zadaca41.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\Seminar 6\Zadaca41\obj\Debug\net6.0\ref\Zadaca41.dll
